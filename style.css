@@ -1,0 +1,100 @@
+body {
+  width: 1440px;
+  background-color: hsl(217, 54%, 11%);
+  font-family: "Outfit", sans-serif;
+}
+
+section {
+  width: 25%;
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 2%;
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 1rem;
+  text-align: justify;
+}
+
+section * {
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+img {
+  width: 90%;
+  margin: 5%;
+  border-radius: 1rem;
+}
+
+h1 {
+    color: hsl(0, 0%, 100%)
+}
+
+p {
+    font-size: 18px;
+}
+
+.p1 {
+    color: #8195b0;
+}
+
+.flex-container.stats {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 0.1rem solid;
+    border-color: #8195b0;
+}
+
+.iconE {
+    margin: auto;
+    width:1rem
+}
+
+
+.p2 {
+    color: #3de9ed;
+    margin-left: 0.5rem;
+}
+
+.iconC {
+    margin: auto;
+    width: 1rem;
+}
+
+.p3 {
+    color: #8195b0;
+    margin-left: 0.5rem;
+}
+
+.flex-container.credit {
+display: flex;
+justify-content: start;
+}
+
+.avatar {
+    margin: auto;
+    width: 2rem;
+    border: 0.1rem solid;
+    border-color: hsl(0, 0%, 100%);
+    border
+}
+
+.p4 {
+    color: #8195b0;
+    margin-left: 1rem;
+}
+
+strong {
+    color: #d7e3f3;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: #8195b0;
+  margin-top: 3%;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
